@@ -56,6 +56,7 @@ This will create the .wasm file in the ./klave folder.
 
 You will find on Klave's github an example of a simple UI to target your proof of existence app deployed using this template:
 - Clone this repo: https://github.com/klave-network/examples
+- Change the setting VITE_APP_KLAVE_CONTRACT in the .env file of proof of existence app with the address of your honest application
 
 ## Authors
 
