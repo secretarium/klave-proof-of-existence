@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "branches": [
+        "*"
+    ],
+    "applications": [
+        {
+            "name": "klave-proof-of-existence",
+            "slug": "klave-proof-of-existence",
+            "version": "0.0.1",
+            "rootDir": "/apps/klave-proof-of-existence"
+        }
+    ]
+}
