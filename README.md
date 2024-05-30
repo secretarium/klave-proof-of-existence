@@ -1,5 +1,5 @@
 <a href="https://klave.com/">
-  <img alt="Klave - Proof of existence" src="https://klave.com/images/marketplace/proof-of-existance.svg">
+  <img alt="Klave - Proof of existence" src="https://klave.com/images/marketplace/proof-of-existence.svg">
   <h1 align="center">Proof of existence - Certify documents, verify ownership, prove the existence of digital assets easily.</h1>
 </a>
 
